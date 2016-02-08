@@ -1,8 +1,10 @@
 # ITC110-HW-PG-119
 1. What does the code for an empty dictionary look like? 
+
 emptyDictionary = {} , the two curly brackets with nothing in between them shows that it’s empty. 
 
 2. What does a dictionary value with a key 'foo' and a value 42 look like?
+
 {'foo': 42} 
 
 3. What is the main difference between a dictionary and a list? 
